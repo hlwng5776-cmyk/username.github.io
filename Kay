@@ -1,5 +1,3 @@
 return {
-    "FILM123",
-    "VIP999",
-    "TEST777"
+    "key_123",
 }
